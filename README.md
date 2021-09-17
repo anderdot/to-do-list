@@ -1,14 +1,14 @@
 # Índice
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Ferramentar utilizadas](#-Ferramentar-utilizadas)
-- [Mostrar todas as tarefas](#-Mostrar-todas-as-tarefas)
-- [Mostrar todas as tarefas finalizadas](#-Mostrar-todas-as-tarefas-finalizadas)
-- [Mostrar todas as tarefas não finalizadas](#-Mostrar-todas-as-tarefas-não-finalizadas)
-- [Mostrar uma tarefa buscando pelo seu ID](#-Mostrar-uma-tarefa-buscando-pelo-seu-ID)
-- [Criar uma nova tarefa](#-Criar-uma-nova-tarefa)
-- [Atualizar uma tarefa já criada](#-Atualizar-uma-tarefa-já-criada)
-- [Excluir uma tarefa](#-Excluir-uma-tarefa)
+- [Sobre](#Sobre)
+- [Tecnologias utilizadas](#Tecnologias-utilizadas)
+- [Ferramentar utilizadas](#Ferramentar-utilizadas)
+- [Mostrar todas as tarefas](#Mostrar-todas-as-tarefas)
+- [Mostrar todas as tarefas finalizadas](#Mostrar-todas-as-tarefas-finalizadas)
+- [Mostrar todas as tarefas não finalizadas](#Mostrar-todas-as-tarefas-não-finalizadas)
+- [Mostrar uma tarefa buscando pelo seu ID](#Mostrar-uma-tarefa-buscando-pelo-seu-ID)
+- [Criar uma nova tarefa](#Criar-uma-nova-tarefa)
+- [Atualizar uma tarefa já criada](#Atualizar-uma-tarefa-já-criada)
+- [Excluir uma tarefa](#Excluir-uma-tarefa)
 
 ## Sobre
 O projeto tem o intuito de utilizar tecnologias web usando **java** para criar um [CRUD](https://pt.wikipedia.org/wiki/CRUD).
